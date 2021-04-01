@@ -1,0 +1,16 @@
+{
+  "name": "mymail",
+  "version": "1.0.0",
+  "description": "Simple Mailing App,We Can Send And Receive Mail From This Project ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0"
+  }
+}
